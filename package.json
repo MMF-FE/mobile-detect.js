@@ -1,5 +1,5 @@
 {
-  "name": "mobile-detect",
+  "name": "@yzfe/mobile-detect",
   "version": "1.4.5",
   "description": "Device detection (phone, tablet, desktop, mobile grade, os, versions)",
   "main": "mobile-detect.js",
@@ -28,6 +28,9 @@
     "name": "Heinrich Goebl",
     "email": "hgoebl@goebl.com",
     "url": "https://www.goebl.com/"
+  },
+  "publishConfig": {
+    "access": "public"
   },
   "license": "MIT",
   "readmeFilename": "README.md",
